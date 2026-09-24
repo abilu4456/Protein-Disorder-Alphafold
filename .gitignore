@@ -1,0 +1,4 @@
+af_structures/
+__pycache__/
+.ipynb_checkpoints/
+*.pdb
